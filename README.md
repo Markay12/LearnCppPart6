@@ -1,0 +1,2 @@
+# LearnCppPart6
+Inheritance
